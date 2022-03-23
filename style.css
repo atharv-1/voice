@@ -1,0 +1,32 @@
+#holi{
+    background-color: blue;
+    color: black;
+    font-weight:bolder ;
+   padding-top: 30px;
+   padding-bottom: 20px;
+   top:0px;
+
+   
+}
+#h0li{
+    background-color: rgb(9, 255, 0);
+    color: rgb(0, 0, 8);
+    font-weight: bolder;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    top: 0px;
+}
+#downtown{
+    background-image: linear-gradient(gray,black);
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+padding-top: 30px;
+padding-bottom: 30px;
+text-shadow: 5px 5px 5px rgb(255, 0, 0);
+width: 80%;
+border-radius: 30%;
+box-shadow: 5px 5px 5px rgb(17, 1, 255);
+}
+h1{
+    font-family: 'Hurricane', cursive;
+}
